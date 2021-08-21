@@ -1,0 +1,16 @@
+{
+    "name": "Seftali.ModularControl",
+    "rootNamespace": "Seftali.ModularControl",
+    "references": [
+        "GUID:c0cc4be16fbd90f429961801eec7ca4c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
